@@ -12,7 +12,7 @@
 </br><br/>
 
 <!-- CONTENT -->
-<img align='right' src='https://media.gettyimages.com/id/1167050865/es/vector/fondo-negro.jpg?s=612x612&w=gi&k=20&c=UnJUIIOFLVZmDMUJG6ahUe9UjBw9DDvIyqamDRnsAew=' width='400'>
+<img align='right' src='Lema Heyyou.png' width='400'>
 
 ### [Stack](https://skillicons.dev)
 
@@ -34,8 +34,8 @@
   <a href="mailto:hola@heyyou.cc" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Gmail" />
   </a>
-  <a href="https://www.heyyou.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=anaconda" alt="Gmail" title="Gmail" />
+  <a href="https://www.heyyou.cc/" target="_blank" height="10px">
+    <img src="Button Heyyou.png" alt="Website" title="Heyyou.cc" style="width:62px;/>
   </a>
 </div>
 
