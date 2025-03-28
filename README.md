@@ -3,31 +3,24 @@
 
 <!-- PRESENTATION -->
 <div align="center" width="200" >
-  <samp>
-    <strong> Heyyou Automation 🚀 </strong> 
-    Automatizamos procesos para que trabajes menos y logres más.
-  </samp>
+  <a href=""> 
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Automatizamos%20procesos%20para%20que%20trabajes%20menos%20y%20logres%20más.&fontSize=20&animation=fadeIn&fontColor=ffffff"/>
+  </a>
 </div>
 
 </br><br/>
 
 <!-- CONTENT -->
-<img align='right' src='Lema Heyyou.png' width='400'>
-
-### [Stack](https://skillicons.dev)
-
-<div align="center">
-  
-</div>
+### [Marketplace](https://www.heyyou.cc/#Marketplace)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Asistentes%20de%20IA&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlign=70" width="300px"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Automatizaciones&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlign=72" width="300px"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Multi%20agentes&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlign=65" width="300px"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Chatware&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlign=60" width="300px"/>
 
 <br/>
 
 <!-- SEE YA -->
 <div align="center" width="200" >
-  <samp>
-    I like to work on <strong> innovative things</strong>, if you need support <br/>with something like this don't hesitate to ask me for help :D 
-  </samp>
-  <br/><br/>
   <a href="https://www.linkedin.com/company/heyyou_cc/about/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" title="Linkedin" />
   </a>
@@ -35,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Gmail" />
   </a>
   <a href="https://www.heyyou.cc/" target="_blank" height="10px">
-    <img src="Button Heyyou.png" alt="Website" title="Heyyou.cc" style="width:62px;/>
+    <img src="Button Heyyou.png" alt="Website" title="Heyyou.cc" style="width:50px;"/>
   </a>
 </div>
 
